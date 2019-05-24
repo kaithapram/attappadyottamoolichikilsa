@@ -1,0 +1,15 @@
+---
+layout: post
+title:  >
+    അട്ടപ്പാടി ഒറ്റമൂലി ചികിത്സ
+date:   2019-05-24 05:59:40 +0000
+---
+
+
+<!-- ![header](https://i.ibb.co/3dtrQPH/Whats-App-Image-2019-05-24-at-11-00-13-AM.jpg) -->
+
+നിങ്ങൾ ഏതെങ്കിലും രോഗം മൂലം ബുദ്ധിമുട്ട് അനുഭവിക്കുന്ന ആൾ ആണോ മരുന്നുകൾ മാറി മാറി പരീക്ഷിച്ചു മടുത്തോ എങ്കിൽ വിളിക്കാം
+
+<a class="btn btn-success text-white" href="https://api.whatsapp.com/send?text=please send {{ site.url }}{{ page.url }}&phone=919562454567" role="button">
+<i class="fab fa-whatsapp fa-spin"></i> Book Through Whatsapp
+</a>
